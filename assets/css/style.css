@@ -1,0 +1,40 @@
+.col-md-3
+{
+	min-height: 300px;
+}
+.fasfa-arrow-left
+{
+	border-radius: 50px;
+	width: 40px;
+	min-height: 30px;
+}
+i.fas.fa-arrow-left.bg-primary.leftIcon{
+	padding: 10px;
+    border-radius: 20px;
+    color: white;
+    margin-top: 30px;
+    
+}
+i.fas.fa-arrow-right.bg-primary.rightIcon{
+	padding: 10px;
+    border-radius: 20px;
+    color: white;
+
+}
+
+.col-md-3
+{
+	background: orange;
+} 
+.col-md-3 p
+{
+	font-size: 20px;
+	font-weight: bold;
+}
+.signup-form {
+    width: 450px;
+    margin: 0 auto;
+    padding: 30px 0;
+    font-size: 15px;
+}
+
